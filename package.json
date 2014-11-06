@@ -4,10 +4,10 @@
     "description": "PsPad Theme for Brackets",
     "version": "1.0.0",
     "author": "Mykee <mikemend@freemail.hu>",
-    "homepage": "https://github.com/Brackets-Themes/PsPad",
+    "homepage": "https://github.com/mykeehu/PsPad",
     "repository": {
         "type": "git",
-        "url": "git://github.com/Brackets-Themes/PsPad.git"
+        "url": "git://github.com/mykeehu/PsPad.git"
     },
     "engines": {
         "brackets": ">=0.42.0"
